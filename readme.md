@@ -1,0 +1,1 @@
+Todos os arquis estão funcionando diretamnete pelo seu index.html
